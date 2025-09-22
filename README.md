@@ -32,21 +32,10 @@ Last Release - v1.2 (12-Feb-2024)\
 
 -   📌 The activation option is currently not working in the script, use the Freeze trial option to lock 30-day trial period for the lifetime.
 
-### Method 1 - PowerShell
+### Traditional
 
-(Recommended)
-
--   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
-    `irm https://massgrave.dev/ias | iex`
--   You will see the activation options, follow the on-screen instructions.
--   That's all.
-
-### Method 2 - Traditional
-
--   Download the file from [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, run the file named `IAS.cmd`
+-   Download and extract the zip file [IDM-Activation-Script-1.2.zip](https://github.com/NyaaCaster/IDM-Activation-Script/releases/download/untagged-818750d5e2cfe3581e58/IDM-Activation-Script-1.2.zip)
+-   run the file named IAS.cmd
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
@@ -147,3 +136,4 @@ And thanks to the IAS users for their interest, feedback, and assistance.
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
