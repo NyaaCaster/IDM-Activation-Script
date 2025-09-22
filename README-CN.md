@@ -2,7 +2,7 @@
 下载 [**Internet Download Manager**](https://www.internetdownloadmanager.com/download.html)
 
 > [!备注]
-> 目前验证 [**642build45**](http://h.hony-wen.com:5244/d/Share/IDM-642build45.exe?sign=ichGZeM4Hcgim-SsrHIi6MyW6qn8_xMV9nrlHUAKwOg=:0) 版本此激活脚本有效
+> 目前验证 [**642build45**](https://github.com/NyaaCaster/IDM-Activation-Script/releases/download/Latest/IDM-642build45.zip) 版本此激活脚本有效
 
 下载激活脚本 [**IDM-Activation-Script**](https://github.com/NyaaCaster/IDM-Activation-Script/releases/download/Latest/IDM-Activation-Script-1.2.zip)
 
