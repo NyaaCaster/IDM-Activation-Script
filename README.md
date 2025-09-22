@@ -1,3 +1,5 @@
+English | [中文](https://github.com/NyaaCaster/IDM-Activation-Script/blob/main/README-CN.md)
+
 # Notice:
 
 ## This project has been archived and is no longer being maintained.
@@ -136,4 +138,5 @@ And thanks to the IAS users for their interest, feedback, and assistance.
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
 
